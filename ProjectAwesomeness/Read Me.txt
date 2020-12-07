@@ -1,0 +1,7 @@
+The player control model is in the ragdoll.zip file. 
+The reason we did this is because of internet uploading issues, files were uploading in the kilobytes, hence
+we decided to seperate them. 
+
+The control to move is arrow keys, space to jump, and camera movement is wasd. 
+
+The camera and the control did not blend in well, hence we are using arrow keys to move. 
